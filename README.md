@@ -1,2 +1,2 @@
-<img src="![Capture d'écran 2024-06-26 011549](https://github.com/DvGt-dev/Web_site_3D_anime_By_DV/assets/121665000/8dbbbcdb-8547-4f5a-967c-c7aae37dd332)" />
+<img src="https://github.com/DvGt-dev/Web_site_3D_anime_By_DV/blob/main/static/Capture%20d'%C3%A9cran%202024-06-26%20011549.png" />
 
