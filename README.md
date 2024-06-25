@@ -1,2 +1,2 @@
-<img src="![image](https://github.com/DvGt-dev/Web_site_3D_anime_By_DV/assets/121665000/9bd368e2-c39d-4e65-86a8-ef461b329ce9)
-" />
+<img src="![Capture d'écran 2024-06-26 011549](https://github.com/DvGt-dev/Web_site_3D_anime_By_DV/assets/121665000/8dbbbcdb-8547-4f5a-967c-c7aae37dd332)" />
+
