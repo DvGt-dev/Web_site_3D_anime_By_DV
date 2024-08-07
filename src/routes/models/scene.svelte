@@ -43,11 +43,11 @@
 {/await}
 
 
-
-<!-- {#await useGltf('/assets/nissan.glb') then nissan}
+{#await useGltf('/assets/nissan.glb') then nissan}
 	<T is={nissan.scene} position={[-2, y, 0]} scale={0.4} />
 {/await}
 
+<!-- 
 {#await useGltf('/assets/spaceship.glb') then spaceship}
 	<T is={spaceship.scene} position={[0, y, 0]} scale={0.4} />
 {/await} -->
